@@ -9,7 +9,7 @@ languageCode = "en-US"
 
 theme = "your-theme"
 
-generate = ["index.html", "404.html", "posts", "pages"]
+generate = ["SEO", "index.html", "404.html", "posts", "pages"]
 
 [params]
   subtitle = "Inspiring content for a better life"
